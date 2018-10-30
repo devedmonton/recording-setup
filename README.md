@@ -43,6 +43,10 @@ You'll need an HDMI cable from the presenter to the splitter, then again from th
 ## Software
 
 #### Open Broadcast Studio (OBS)
+
+* [YouTube recommended recording settings](https://support.google.com/youtube/answer/1722171?hl=en-GB)
+* [OBS Screencasting settings](https://www.mistergoodcat.com/post/screencasts-with-open-broadcaster-software)
+
 #### AV.io Configuration Tool
 #### Logitech Brio Configuration Tool
 #### Sound Recorded / Quicktime
