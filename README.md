@@ -48,6 +48,10 @@ You'll need an HDMI cable from the presenter to the splitter, then again from th
 * [OBS Screencasting settings](https://www.mistergoodcat.com/post/screencasts-with-open-broadcaster-software)
 * [Removing background noise in OBS](https://medium.com/@Wootpeanuts/removing-background-noise-with-obs-studio-17214d967fe0)
 * [OBS YouTube settings](https://obsproject.com/forum/threads/your-videos-will-process-faster-if-you-encode-into-a-streamable-file-format.70734/#post-302313)
+* Use MOV on Apple if you want the option to edit in iMovie, don't use MP4
+* Downsample audio to mono in input source advanced settings, and in audio settings
+* Monitor and output if you want to listen to the recording with headphones
+* Check speaker desktop resoultion from AV.io using config and set OBS to same (probably not a preset)
 
 #### AV.io Configuration Tool
 #### Logitech Brio Configuration Tool
