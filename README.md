@@ -66,3 +66,20 @@ You'll need an HDMI cable from the presenter to the splitter, then again from th
 * [ ] receiver
 * [ ] Webcam
 * [ ] HDMI cables
+
+### Pre-Recording Checklist
+
+* [ ] Remind speaker to repeat questions
+* [ ] Line up speaker and zoom with camera
+* [ ] Do a test recording with audio and verify speaker title, each scene, and sponsors thank-you
+* [ ] Check each input video AND audio source to make sure they're outputing and being recorded
+
+## Troubleshooting
+
+### Presenter desktop video looks "chunky" and scaled
+
+Use the AV.io tool to check the native resolution coming over HDMI from the presenter, then open the presenters desktop video source in OBS and set the resolution and refresh rate to match. Note, that you might need to move the desktop around in the scene if the resolution has changed.
+
+### No audio in recordings or flame chart
+
+TODO
