@@ -47,6 +47,7 @@ You'll need an HDMI cable from the presenter to the splitter, then again from th
 * [YouTube recommended recording settings](https://support.google.com/youtube/answer/1722171?hl=en-GB)
 * [OBS Screencasting settings](https://www.mistergoodcat.com/post/screencasts-with-open-broadcaster-software)
 * [Removing background noise in OBS](https://medium.com/@Wootpeanuts/removing-background-noise-with-obs-studio-17214d967fe0)
+* [OBS YouTube settings](https://obsproject.com/forum/threads/your-videos-will-process-faster-if-you-encode-into-a-streamable-file-format.70734/#post-302313)
 
 #### AV.io Configuration Tool
 #### Logitech Brio Configuration Tool
