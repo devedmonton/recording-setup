@@ -57,6 +57,38 @@ You'll need an HDMI cable from the presenter to the splitter, then again from th
 #### Logitech Brio Configuration Tool
 #### Sound Recorded / Quicktime
 
+## Before The Day Of The Recording
+
+Verifying and testing as much in advance of the recording will give you peace of mind and confidence that everything will go smoothly when it comes time to record the actual event. Remember that you'll often have a large crowd gathered, who aren't  interested in any A/V or technical issues, so troubleshooting while the audience waits is never a good idea. With that said, let's do our best to get you setup in advance!
+
+### Decisions, Decisions
+
+Before you start setting anything up, make sure you know what you're going to be doing!
+
+#### Livestreaming vs Recording
+
+The first thing you need to decide is whether you're going to live stream or just record your talks. There are pros and cons to each option, and what you decide to do will impact the setup you configure later.
+
+Many people assume they'll want to livestream. It's fun to share what you're doing with the Internet and can be a great way to get community involved that can't attend in person, however you should be aware that without a stable **upstream** connection your viewers won't be able to see what you're doing or participate. YouTube recommends that you have a connection able to hold a stable 2.5 MB/s upstream with <30ms ping, however a connection of at least 5 MB/s and <10ms ping is ideal. It should also be stable enough that it won't drop out due to interference or other traffic on the network. Make sure to test connection well and let others know you'll be broadcasting!
+
+You should also consider the streaming service you're going to use. Dev Edmonton has a YouTube channel that all members are welcome to use. As it's got more than 100 subscribers you can access features like live chat, however you're also welcome to use our hardward with your own channel if you prefer. There are also other great services like Twitch or Facebook Live you should consider. They all work with OBS, so this decision mostly comes down to the streaming features and audience you're trying to reach.
+
+Finally, when livestreaming you need to decide how involved the audience can be in your broadcasts. Are presenters going to take questions from the livestream chat? Which questions and how do they get their turn in line to ask? Is there a moderator that passes questions on to the presenter? If so, who does this? Will the audience attending the event in person be made aware of the livestream chat? Again, the answers to these questions depend on your audience and goals, but you should consider them in advance.
+
+Given the added complexity of livestreaming, many organizers choose to simply record their talks and post them online at a later time when they know that internet is reliable and fast. This is a good starting point if you're just getting started or using an unknown or unliable internet connection during the presentation.
+
+A third option is to both stream and record talks. OBS is able to do this out of the box, though it can put an extra demand on your recording gear if you're streaming and recording at two different qualities. By doing so you can gain the interactivity of a livestream along with the fidelity and reliability of a recording. As always, whatever you decide, make sure to test it in advance!
+
+#### Online vs Offline Editing
+
+The other big choice you'll need to make is about online or offline editing of your recordings.
+
+With online editing, you mix all audio and graphics in real-time during the recording of the presentation, and are left with a recording that's ready for sharing as soon as the event is over. This is great because it reduces the efforts and time needed to get talks and vidoes up after an event, but also makes the actual recording a little more stressful as you're trying to juggle extra scenes and sources you might not otherwise have to work with during the recording.
+
+Offline editing is the other way to go. In this setup you simple record the speaker and their desktop at the event, then use a program like iMovie to add titles and credits afterwards. This eases some of the pressure at the time of recording, which is great especially when you're starting out, but it adds extra time after the event editing the vidoes. You also have to take special care to make sure you record in a format that your editor can work with (MOV if you're using iMovie.)
+
+This guide will walk you through setting up scenes that can work for both offline and online editing, but you should decide before the event which you'll use and want to make sure you've got the appropriate scenes prepared in advance and are confident you can work with a recording in your chosen editor.
+
 ### Equipment Checklist
 
 * [ ] AV.io video grabber
