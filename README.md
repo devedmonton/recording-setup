@@ -89,6 +89,23 @@ Offline editing is the other way to go. In this setup you simple record the spea
 
 This guide will walk you through setting up scenes that can work for both offline and online editing, but you should decide before the event which you'll use and want to make sure you've got the appropriate scenes prepared in advance and are confident you can work with a recording in your chosen editor.
 
+### Configuring OBS
+
+#### Settings
+
+#### Presenter (Camera / Desktop)
+
+#### Presenter (Camera Only)
+
+#### Presenter (Desktop Only)
+
+#### Presenter Titles
+
+#### Outro (Sponsor Thank You)
+
+
+## Recording The Event
+
 ### Equipment Checklist
 
 * [ ] AV.io video grabber
@@ -99,6 +116,10 @@ This guide will walk you through setting up scenes that can work for both offlin
 * [ ] Logitech BRIO Webcam
 * [ ] HDMI cables x 2
 * [ ] Fresh AA batteries x 4
+
+### Connecting The Equipment
+
+[ INSERT EQUIPMENT DIAGRAM ]
 
 ### Pre-Recording Checklist
 
