@@ -64,8 +64,9 @@ You'll need an HDMI cable from the presenter to the splitter, then again from th
 * [ ] Wireless lavalier microphone
 * [ ] transmitter
 * [ ] receiver
-* [ ] Webcam
-* [ ] HDMI cables
+* [ ] Logitech BRIO Webcam
+* [ ] HDMI cables x 2
+* [ ] Fresh AA batteries x 4
 
 ### Pre-Recording Checklist
 
@@ -73,6 +74,8 @@ You'll need an HDMI cable from the presenter to the splitter, then again from th
 * [ ] Line up speaker and zoom with camera
 * [ ] Do a test recording with audio and verify speaker title, each scene, and sponsors thank-you
 * [ ] Check each input video AND audio source to make sure they're outputing and being recorded
+* [ ] Check free space on the recording computer
+* [ ] If streaming, verify that 
 
 ## Troubleshooting
 
@@ -82,4 +85,22 @@ Use the AV.io tool to check the native resolution coming over HDMI from the pres
 
 ### No audio in recordings or flame chart
 
-TODO
+This can happen for a few reasons. Start with the basics.
+
+1. Open your systems sound settings and verify that your getting sound from the speakers microphone.
+2. Check that the speakers microphone is on, has full battery power, and is not muted.
+3. Restart OBS (changing some settings can sometimes require a restart)
+
+If the audios still not back, then open *"Settings"* and check:
+
+4. From the *"Output"* pane on the left select the *"Recording"* tab and then ensure that *"Audio Track"* has a checkbox beside *"1"*, like this:
+
+[ AUDIO TRACK SCREENSHOT ]
+
+5. Carry on to the *"Audio"* pane on the left and make sure that extra devices like *"Desktop Audio Device"* and *"Mix/Auxillary Device"* are disabled.
+
+6. Confirm that the audio source is added to the scene you're on.
+7. Open the audio source's properties (right-click, double-click or hit the gear icon) and try changing the audio device and hit OK, then change it back to what it's supposed to be on.
+8. From the menu select *"Edit"* > *"Advanced Audio Properties"* and check which audio tracks the audio source will output too. Make sure track *"1"* has a checkbox as this is the track we're using in the recording. Also, confirm that *"Audio Monitoring"* is not set to *"Monitor Only (mute ouput)"* as that will mute the output in the recording. Finally, confirm that *"Downmix to Mono"* is checked as that's usually what you want for our speakers.
+
+Confirm all of these settings, then if things still aren't working restart OBS one last time. If you're still having trouble then consider rebooting the system or trying another machine for recording. After the event, please consider posting an issue on this repo and reaching out to us on our Slack to figure out what was going wrong.
